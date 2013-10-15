@@ -1,3 +1,6 @@
+/**
+ * Przykład ze szkolenia
+ */
 package pl.mirco;
 
 import java.awt.event.ActionEvent;
